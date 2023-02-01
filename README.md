@@ -6,10 +6,9 @@
 
 > **URRATSAK**
 
-Clone this repository and then run.
 
-	$ git clone 
-	$ cd deadman
+git clone 
+	 cd deadman
 	$ ./deadman deadman.conf
 
 * **1.URRATSA** [INSTALATU](https://github.com/leirerodriguez/GITHUB/blob/main/REPOSITORIOA%20SORTZEKO.txt)
