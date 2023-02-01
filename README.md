@@ -1,6 +1,6 @@
 # LEHEN URRATSAK GITHUBEN
 
-![image]()
+![image](https://github.com/leirerodriguez/GITHUB/blob/main/ARGAZKIA_PORTADA.jpg)
 
 ## GITHUB NOLA ERABILI
 
