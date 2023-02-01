@@ -1,0 +1,6 @@
+URRATSAK: 
+
+1. Kontu bat sortu GitHuben
+2. Git instalatu
+3. Karpeta berri bat sortu zure ordenagailuan eta bertan sartu GitHubera igo nahi dituzun dokumentuak
+4. GitHuben repository bat sortu
