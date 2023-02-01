@@ -10,7 +10,7 @@
 * **2.URRATSA**[SORTU ERABILTZAILEA GITHUBEN](https://github.com/)
 * **3.URRATSA**
 
-| URRATSAK | AZALPENA |
-| --- | --- |
-| `1.URRATSA` | Instalatu *git* |
-| `2.URRATSA` | Repositorioa sortu **hemen**|
+                                          | URRATSAK | AZALPENA |
+                                          | --- | --- |
+                                          | `1.URRATSA` | Instalatu *git* |
+                                          | `2.URRATSA` | Repositorioa sortu **hemen**|
