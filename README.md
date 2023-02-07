@@ -27,9 +27,12 @@
 | `1.URRATSA` | Instalatu *git* |
 | `2.URRATSA` | Repositorioa sortu **hemen**|
 
-                                                  KOMATXOAK ERABILI GRISEZ JARTZEKO
+* **GRISEZ JARTZEKO**
+
+                                                  ERDIRA ERAMAN
 
 * **LINKAK**
+
 [SORTU ERABILTZAILEA GITHUBEN](https://github.com/)
 
 [INSTALATU](https://github.com/leirerodriguez/GITHUB/blob/main/REPOSITORIOA%20SORTZEKO.txt)
