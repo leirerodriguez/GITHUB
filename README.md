@@ -24,8 +24,7 @@
 
 | MATERIALA | ERREFERENTZIA |
 | --- | --- |
-| `1.URRATSA` | Instalatu *git* |
-| `2.URRATSA` | Repositorioa sortu **[TTGO LORA32](https://tienda.bricogeek.com/lora/1122-ttgo-lora32-esp32-con-oled-900-mhz.html)**|
+| `TTGO LORA32 ESP32` | **[TTGO LORA32](https://tienda.bricogeek.com/lora/1122-ttgo-lora32-esp32-con-oled-900-mhz.html)**|
 
 * **GRISEZ JARTZEKO**
 
