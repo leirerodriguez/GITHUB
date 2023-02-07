@@ -20,7 +20,7 @@
 * **IRUDIAK GEHITZEKO**
 
 
-* ***TAULA EGITEKO***
+* **TAULA EGITEKO***
 
 | MATERIALA | ERREFERENTZIA |
 | --- | --- |
@@ -30,8 +30,6 @@
 
                                                   ERDIRA ERAMAN
 
-* **LINKAK**
 
-[TTGO LORA32](https://tienda.bricogeek.com/lora/1122-ttgo-lora32-esp32-con-oled-900-mhz.html)
 
-[INSTALATU](https://github.com/leirerodriguez/GITHUB/blob/main/REPOSITORIOA%20SORTZEKO.txt)
+[INKA REPOSITORIOTIK HARTZEKO](https://github.com/leirerodriguez/GITHUB/blob/main/REPOSITORIOA%20SORTZEKO.txt)
