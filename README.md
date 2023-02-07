@@ -5,7 +5,9 @@
 > **ATALAK (PROPOSAMENA)**
 
 * **1.PROIEKTUA AZALDU: SARRERA**
-Lan honetan IOT
+
+*Lan honetan IOT
+
 * **2.HELBURUAK**
 * **3.MATERIALA ETA BALIABIDEAK**
 * **4.GARAPENA**
