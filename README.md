@@ -11,7 +11,7 @@
 * **5.EMAITZAK**
 
 
-## BALIABIDEAK
+> **BALIABIDEAK**
 
 * **LETRA TIPOA**
 
