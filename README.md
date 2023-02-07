@@ -1,14 +1,14 @@
-# LEHEN URRATSAK GITHUBEN
+# PROIEKTUA GITHUBEN SARTZEA
 
-![image](https://github.com/leirerodriguez/GITHUB/blob/main/ARGAZKIA_PORTADA.jpg)
+## EZAUGARRIAK
 
-## GITHUB NOLA ERABILI
+> **ATALAK (PROPOSAMENA)**
 
-> **URRATSAK**
-
-* **1.URRATSA** [INSTALATU](https://github.com/leirerodriguez/GITHUB/blob/main/REPOSITORIOA%20SORTZEKO.txt)
-* **2.URRATSA**[SORTU ERABILTZAILEA GITHUBEN](https://github.com/)
-* **3.URRATSA**
+* **1.PROIEKTUA AZALDU: SARRERA**
+* **2.HELBURUAK**
+* **3.MATERIALA ETA BALIABIDEAK**
+* **4.GARAPENA**
+* **5.EMAITZAK**
 
 * ***TAULA EGITEKO***
 
@@ -18,3 +18,5 @@
 | `2.URRATSA` | Repositorioa sortu **hemen**|
 
                                                   KOMATXOAK ERABILI GRISEZ JARTZEKO
+[SORTU ERABILTZAILEA GITHUBEN](https://github.com/)
+[INSTALATU](https://github.com/leirerodriguez/GITHUB/blob/main/REPOSITORIOA%20SORTZEKO.txt)
