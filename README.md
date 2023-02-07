@@ -10,6 +10,16 @@
 * **4.GARAPENA**
 * **5.EMAITZAK**
 
+
+## BALIABIDEAK
+
+* **LETRA TIPOA**
+
+* **ATALAK GEHITZEKO**
+
+* **IRUDIAK GEHITZEKO**
+
+
 * ***TAULA EGITEKO***
 
 | URRATSAK | AZALPENA |
@@ -18,5 +28,8 @@
 | `2.URRATSA` | Repositorioa sortu **hemen**|
 
                                                   KOMATXOAK ERABILI GRISEZ JARTZEKO
+
+* **LINKAK**
 [SORTU ERABILTZAILEA GITHUBEN](https://github.com/)
+
 [INSTALATU](https://github.com/leirerodriguez/GITHUB/blob/main/REPOSITORIOA%20SORTZEKO.txt)
