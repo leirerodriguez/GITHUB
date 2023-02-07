@@ -30,6 +30,6 @@
 
                                                   ERDIRA ERAMAN
 
+* **LINKAK**
 
-
-[INKA REPOSITORIOTIK HARTZEKO](https://github.com/leirerodriguez/GITHUB/blob/main/REPOSITORIOA%20SORTZEKO.txt)
+[LINKA REPOSITORIOTIK HARTZEKO](https://github.com/leirerodriguez/GITHUB/blob/main/REPOSITORIOA%20SORTZEKO.txt)
