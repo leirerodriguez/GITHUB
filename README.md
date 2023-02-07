@@ -22,10 +22,10 @@
 
 * ***TAULA EGITEKO***
 
-                                            | URRATSAK | AZALPENA |
-                                            | --- | --- |
-                                            | `1.URRATSA` | Instalatu *git* |
-                                            | `2.URRATSA` | Repositorioa sortu **hemen**|
+| URRATSAK | AZALPENA |
+| --- | --- |
+| `1.URRATSA` | Instalatu *git* |
+| `2.URRATSA` | Repositorioa sortu **hemen**|
 
 * **GRISEZ JARTZEKO**
 
