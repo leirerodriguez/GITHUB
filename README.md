@@ -32,4 +32,4 @@
 
 * **LINKAK**
 
-[LINKA REPOSITORIOTIK HARTZEKO](https://github.com/leirerodriguez/GITHUB/blob/main/REPOSITORIOA%20SORTZEKO.txt)
+[RESPOSITORIOKO DOKUMENTU BAT](https://github.com/leirerodriguez/GITHUB/blob/main/REPOSITORIOA%20SORTZEKO.txt)
