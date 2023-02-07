@@ -20,7 +20,7 @@
 * **IRUDIAK GEHITZEKO**
 
 
-* **TAULA EGITEKO***
+* **TAULA EGITEKO**
 
 | MATERIALA | ERREFERENTZIA |
 | --- | --- |
