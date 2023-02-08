@@ -11,7 +11,7 @@
 * **5.EMAITZAK**
 
 ## **NOLA FUNTZIONATZEN DU GITHUBEK?**
-Ia horrela zerbait aldatzen den
+
 > **BALIABIDEAK**
 
 * **LETRA TIPOA**
